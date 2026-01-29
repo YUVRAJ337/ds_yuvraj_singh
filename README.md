@@ -16,3 +16,11 @@ This project analyzes how trader performance and behavior vary across market sen
 ## Tools
 - Python, Pandas, Matplotlib
 - Google Colab
+  
+ ## Note on Data Files
+
+Due to GitHub file size limitations, large intermediate CSV files
+(`merged_data.csv`, `trader_cleaned.csv`) are not included in this repository.
+
+These files are generated programmatically within `notebook_1.ipynb`
+and can be reproduced by running the notebook in Google Colab.
